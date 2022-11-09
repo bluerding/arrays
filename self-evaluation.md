@@ -1,0 +1,3 @@
+- Arrays have given me some trouble today, but I feel like I was able to get throught it. I am not sure I did this 100% correctly, but I know I am on the right track.
+- I need to just keep going over examples until everything clicks for me
+- Not really a question, but I did get stuck for a long time because I was doing things in reverse order and expecting them to work. So no questions about it, just need to conitnue to practice so im comfortable.
